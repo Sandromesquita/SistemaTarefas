@@ -1,0 +1,37 @@
+body{
+    background-color: antiquewhite;
+    font-family: "Roboto Light";
+    color: #333;
+}
+
+h1{
+    text-align: center;
+}
+
+fieldset{
+    border: 3px double #333333;
+    color: black;
+}
+
+input[type=text]{
+    width: 100%;
+    padding: 5px;
+}
+
+input[type=submit]{
+    float: right;
+    background-color: greenyellow;
+}
+
+table{
+    width: 100%;
+}
+
+table th{
+    background-color: darkgray;
+    font-size: 20px;
+}
+
+table td{
+    border-bottom: 1px solid #333333;
+}
